@@ -13,7 +13,7 @@
 ______________________________________________________________________________________________________________________________________
 
  project folder must have:
-1. images foler (where images are stored)
+1. images folder (where images are stored)
 2. ages folder (stores predicted ages along with self-calculated median age)
 3. roll_no folder (to store registered roll no.s)
 4. attendance.csv file (marks attendace with date and time)
